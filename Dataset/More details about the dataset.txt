@@ -1,0 +1,3 @@
+The dataset that used in this project is Brazilian ecommerce public dataset.
+You can access the data and get more information adn description about the data here:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
